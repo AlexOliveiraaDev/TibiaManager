@@ -1,5 +1,5 @@
 # Tibia Manager - Launcher
-
+![Dashboard Offline](./assets/logo.scale-400.png)
 Bem-vindo ao **Tibia Manager**, sua ferramenta completa para gerenciar múltiplas contas de Tibia de forma prática e eficiente.
 
 ---
