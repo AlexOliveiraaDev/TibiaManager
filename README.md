@@ -24,7 +24,7 @@ O Tibia Manager é uma aplicação desktop desenvolvida para jogadores de Tibia 
 
 ### 1. Instalação
 
-Faça o download da aplicação e execute o instalador. O Tibia Manager será instalado no seu computador Windows.
+Faça o download da aplicação e extraia o zip.
 
 ### 2. Login
 
@@ -99,7 +99,7 @@ Caso encontre problemas ou tenha dúvidas:
 
 ## Versão
 
-**Tibia Manager v1.0**
+**Tibia Manager v0.1.4**
 
 ---
 
