@@ -1,5 +1,8 @@
-# Tibia Manager - Launcher
-![Dashboard Offline](./assets/StoreLogo.scale-400.png)
+<div align="center">
+  <img src="./assets/StoreLogo.scale-400.png" alt="Tibia Manager Logo" width="200">
+  <h1>Tibia Manager - Launcher</h1>
+</div>
+
 Bem-vindo ao **Tibia Manager**, sua ferramenta completa para gerenciar múltiplas contas de Tibia de forma prática e eficiente.
 
 ---
